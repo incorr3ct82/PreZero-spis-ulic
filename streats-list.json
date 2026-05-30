@@ -1,0 +1,562 @@
+[
+  {
+    "streatName": "Bobrzyńskiego Michała, Prof. (1)",
+    "prefix": "ul.",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/d1WXTtRxmHA8mGSg6",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Brożka Jana (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/wQq4fuSSSAudXgRJA",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Grota-Roweckiego Stefana (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/UCtVaW9z4CVaRUCm6",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Kapelanka",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/yEk6omHYyzMkAwgRA",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Monte Casino",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/hn1RhzAFzL5UmupK9",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Sielska (2) + Pętla MPK [ Borek Fałęcki ]",
+    "prefix": "ul. ",
+    "streatDesc": "Pętla tramwajowo-autobusowa [Borek Fałęcki] + targowisko",
+    "tag": "pętla",
+    "googleMapsLink": "https://maps.app.goo.gl/UkyWVm3Xsg3BNgJEA",
+    "weekDays": ["pn", "wt", "sr", "cz", "pt", "sb", "nd"]
+  },
+  {
+    "streatName": "Mogilska (3)",
+    "prefix": "ul. ",
+    "streatDesc": "dół Ronda Mogilskiego do ul. Powstania Warszawskiego",
+    "tag": "rondo",
+    "googleMapsLink": "https://maps.app.goo.gl/6X9SnrS4TxJ9652XA",
+    "weekDays": ["pn", "wt", "sr", "cz", "pt", "sb", "nd"]
+  },
+  {
+    "streatName": "Grzegórzeckie",
+    "prefix": "Rondo",
+    "streatDesc": "ul. Grzegórzecka - al. Powstania Warszawskiego - al. Pookoju - ul. Kotlarska",
+    "tag": "rondo",
+    "googleMapsLink": "https://maps.app.goo.gl/D8EqkDPV6ZqwSnEZ7",
+    "weekDays": ["pn", "wt", "sr", "cz", "pt", "sb", "nd"]
+  },
+  {
+    "streatName": "Konopnickiej Marii (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od Ronda Grunwaldzkiego do Ronda Matecznego na długości <b>1.5 km</b>",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/FzDGUenxVPg9PnSz7",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Konopnickiej Marii (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Zwierzynieckiej do Ronda Grunwaldzkiego na długości <b>0,760 km</b>",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/FzDGUenxVPg9PnSz7",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Krasickiego Ignacego (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Długosza do ul. Orawskiej",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/FqEsWLqh8gf4HDWV9",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Krasickiego Ignacego (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Orawskiej do ul Mitery",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/FqEsWLqh8gf4HDWV9",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Limanowskiego Bolesława",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/4o9Uy4inZebh983Z9",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Lwowska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Dąbrowskiego w kierunku ul. Na Zjezdzie",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/andABCUpzXaJvLiHA",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Lwowska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Limanowskiego do ul. Dąbrowskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/andABCUpzXaJvLiHA",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Na Zjezdzie",
+    "prefix": "ul. ",
+    "streatDesc": "wraz z rozjazdami",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/H8w2HyhHdW4LzWc96",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Powstańców Śląskich (1)",
+    "prefix": "al.",
+    "streatDesc": "od ul. Powstańców Wielkopolskich tj. od estakady im. Obrońców Lwowa do ul. Kamieńskiego tj. do węzła Tischnera",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/1SdvNsSfPhSkEmry6",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Powstańców Wielkopolskich (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Nowohuckiej tj. od skrzyżowania z ul. Klimeckiego do al. Powstańców Śląskich tj. od estakady im. Obrońców Lwowa tj skrzyżowania z ul. Wielicka/Limanowskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/xnQgi4yuG4XUF2CV9",
+    "weekDays": ["cz"]
+  },
+  {
+    "streatName": "Grunwaldzkie",
+    "prefix": "Rondo",
+    "streatDesc": "ul. Dietla (most Grunwaldzki) - ul. Monte Casino - ul. Konopnickiej",
+    "tag": "rondo",
+    "googleMapsLink": "https://maps.app.goo.gl/tCuJ2fvsapN98dJd8",
+    "weekDays": ["pn", "wt", "sr", "cz", "pt", "sb", "nd"]
+  },
+  {
+    "streatName": "Matecznego Antoniego",
+    "prefix": "Rondo",
+    "streatDesc": "ul. Konopnickiej - ul. Kamieńskiego - ul. Kalwaryjska - ul. Wadowicka",
+    "tag": "rondo",
+    "googleMapsLink": "https://maps.app.goo.gl/K3pLarey344rz36k6",
+    "weekDays": ["pn", "wt", "sr", "cz", "pt", "sb", "nd"]
+  },
+  {
+    "streatName": "Bułhaka Jana",
+    "prefix": "ul.",
+    "streatDesc": "od ul. Monte Casino do ul. Wierzbowej",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/vpTSiJeZZewcLYfk9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Cegielniana (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Brożka do ul. Odrzańska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/P9ifUHkQiEbBMwzb7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Cegielniana (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Odrzańska do ul. Do Wilgi",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/P9ifUHkQiEbBMwzb7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Dębowa (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bałuckiego do ul. Skwerowa",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/neyjnDkzatUp5fyK6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Do Wilgi",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/6hDRj6bfZY3GJcJP8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Dworska",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/YeZ4LqRCBBBBTxTw6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Frassati-Gawrońskiej Luciany",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bobrzyńskiego do ronda przy ul. Czerwone Maki",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/o1bjebMPwWrwCp28A",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Koonfederacka",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/aA7TD4k2fsD6uoge7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Nowaczyńskiego Adolfa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/6iJdtYpFi2syMBCz8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Praska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Szwedzka do ul. Zielińskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/P6d3rNxK2KvUCv9x8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Praska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Zielińskiegoo do ul. Tyniecka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/P6d3rNxK2KvUCv9x8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Skrzyneckiego Jana, Generała",
+    "prefix": "al. ",
+    "streatDesc": "",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/rNJgJWeUDEZpajXV9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Skwerowa (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Moonte Casino do ul. Pułaskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/2LdavZuz8Z6ArJiW6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Skwerowa (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bałuckiego w kierunku ul. Pułaskiego na długości 0,06 km",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/2LdavZuz8Z6ArJiW6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Szwedzka (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Twardowskiego do ślepego końca",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/2EEY4HApTaTm17LZ8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Szwedzka (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Tyniecka do ul. Monte Casino",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/2EEY4HApTaTm17LZ8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Twardowskiego Jana (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kapelanka na zachód w kierunku Zakrzówka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/RbevqjhNraABZisA6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Twardowskiego Jana (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kapelanka na wschód w kierunku osiedla Poodwawelskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/RbevqjhNraABZisA6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Tyniecka (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bałuckiego do ul. Szwedzka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/qtYQQS68n3wAJc2y7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Wierzbowa (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bułhaka na zachód do ul. Dworska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/yLVwdmdVqgSg3Yei6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Wierzbowa (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bułhaka na wschód do ul. Barska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/yLVwdmdVqgSg3Yei6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Wygrana (2)",
+    "prefix": "ul. ",
+    "streatDesc": "parking oraz ściągacz do ul. Barska za Centrum Kongresowym",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/soL4864RW5LfrK5j7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Łagiewnicki Plac",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/W8vUJParW4kxERrn6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Bajeczna (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/FFKKe7FCCMatVpHM9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Cichociemnych AK",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/dJFZ7hUzrURY79xD7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Cystersów",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/SavZmxiqCHo9mCW87",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Fabryczna (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Grzegórzecka doo ul. Cystersów",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/YpP4KnakSanKUEgz6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Fabryczna (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od al. Pokoju do ul. Grzegórzecka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/YpP4KnakSanKUEgz6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Fabryczna (4)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Cystersów na wschód do rozwidlenia",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/YpP4KnakSanKUEgz6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Grzegórzecka (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Rogozińskiego do ul. Fabryczna",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/z9cxLREfABAsP7iW8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Grzegórzecka (4)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Fabryczna do ślepego końca",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/z9cxLREfABAsP7iW8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Grzegórzecka (7)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kotlarska do ul. Rogozińskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/z9cxLREfABAsP7iW8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Kordylewskiego Kazimierza",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/2mvvGivHbmLfM4ba8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Na Szaniec",
+    "prefix": "ul. ",
+    "streatDesc": "zwrócić uwagę na zieleniec przy Nr. 2 bo chłop non-stop wydzwania i pisze",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/Xf6S4EnUwBz8Bc7F7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Niepołomska",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/AsedhuPuKHVaoyug6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Ofiar Dąbia (1)",
+    "prefix": "ul. ",
+    "streatDesc": "w ciągu z ul. Stoczniowców",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/Lw38WdrHNkyFrNyV8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Sądowa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/yGTuyfhxgYJcABWR7",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Stachowskiego Marka, Profesora",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kotlarska do ul. Zieleniewskiego",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/kxcjy4HSLq49ju2i6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Sierpowa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/D2KkkRVAENnT4pxf9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Szafera Władysława, Profesora",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/4W6Zx9wGN53bn6Ce8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Widok (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/CZh1CF2JXPD7kaBu8",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Zajęcza",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/ejkQa8oWWiV4ThWg9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Zieleniewskiego Ludwika",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Grzegórzecka do ul. Stachowskiego (dawniej Wandy)",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/4YCTn2tr3GC3WyXV9",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Zwycięstwa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/nR9BoxaGE9uyUnt9A",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Stoczniowców",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/VPXqb2JXEhbexCja6",
+    "weekDays": ["1pt"]
+  },
+  {
+    "streatName": "Czerwone Maki (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Czerwone Maki (4)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Czerwone Maki (6)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Czerwone Maki (7)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "",
+    "weekDays": ["2pt"]
+  }
+]

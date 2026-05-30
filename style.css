@@ -1,0 +1,144 @@
+@import "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-svg-core@7.2.0/styles.min.css";
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700");
+
+*,
+*:before,
+&:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.app-wrapper {
+    max-width: 500px;
+    min-width: 360px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+header {
+
+    border-bottom: 2px solid black;
+
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-top .current-date {
+    text-transform: uppercase;
+}
+
+.header-top .search {
+    padding: 5px;
+}
+
+.header-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .week-day {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+header .date {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.streat-wrapper {
+    margin-top: 15px;
+    border-left: 5px solid rgba(0, 0, 0, .2);
+    padding-left: 10px;
+}
+
+.streat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.streat-wrapper .streat-map-link {
+    font-size: .825rem;
+    font-weight: 700;
+}
+
+.streat-wrapper .streat-name {
+    letter-spacing: 1px;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.streat-wrapper .streat-desc {
+    margin-top: 5px;
+    padding-left: 10px;
+    font-size: .825rem;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.streat-wrapper ul {
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    padding-left: 10px;
+    font-size: .825rem;
+    font-weight: 300;
+    text-transform: uppercase;
+
+}
+
+/* custom select*/
+.custom-select {
+    --checkmark-size: 12px;
+    --select-size: 150px;
+    width: calc(var(--select-size) + var(--checkmark-size));
+    padding: 5px;
+    cursor: pointer;
+
+    &,
+    &::picker(select) {
+        margin-block: 10px;
+        appearance: base-select;
+        border-radius: 8px;
+        border: 3px solid #b0bec5;
+    }
+
+    & option {
+        width: var(--select-size);
+        background: #cfd8dc;
+        padding: 10px;
+
+        & .option-wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    }
+
+    & option:hover {
+        background: #90a4ae;
+    }
+
+    & option::checkmark {
+        font-family: "Font Awesome 5 Free";
+        content: "✔" / "";
+        color: green;
+    }
+
+    & span {
+        font-size: 1.25rem;
+    }
+}

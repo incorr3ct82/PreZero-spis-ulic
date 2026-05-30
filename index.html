@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista Ulic</title>
+  </head>
+  <body>
+    <div class="app-wrapper">
+      <header>
+        <div class="header-top">
+          <p class="current-date"></p>
+          <input
+            class="search"
+            id="search"
+            type="text"
+            placeholder="wyszukaj"
+          />
+        </div>
+        <div class="header-bottom">
+          <div class="week-day">Poniedziałek</div>
+          <select id="mySelect" class="custom-select">
+            <option value="" hidden>
+              <span>dzień tygodnia</span>
+            </option>
+            <option value="pn">
+              <div class="option-wrapper">
+                <span>poniedziałek</span>
+              </div>
+            </option>
+            <option value="wt">
+              <div class="option-wrapper">
+                <span>wtorek</span>
+              </div>
+            </option>
+            <option value="sr">
+              <div class="option-wrapper">
+                <span>środa</span>
+              </div>
+            </option>
+            <option value="cz">
+              <div class="option-wrapper">
+                <span>czwartek</span>
+              </div>
+            </option>
+            <option value="pt">
+              <div class="option-wrapper">
+                <span>piątek</span>
+              </div>
+            </option>
+            <option value="sb">
+              <div class="option-wrapper">
+                <span>sobota</span>
+              </div>
+            </option>
+            <option value="nd">
+              <div class="option-wrapper">
+                <span>niedziela</span>
+              </div>
+            </option>
+          </select>
+        </div>
+      </header>
+      <section class="main-content"></section>
+    </div>
+    <script src="./script.js" type="module"></script>
+  </body>
+</html>
+
+<!-- 
+        <div class="streat-wrapper">
+          <div class="streat">
+            <div class="streat-name">ul. Nowohucka</div>
+            <a
+              class="streat-map-link"
+              href="https://maps.app.goo.gl/PfDM6WeUNtqmorj88"
+              target="blank"
+              >googleMaps</a
+            >
+          </div>
+          <div class="streat-desc">
+            od ronda Dywizjonu 308 do ul. Stella Sawickiego
+          </div>
+        </div>
+ -->
