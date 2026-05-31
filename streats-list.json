@@ -40,7 +40,7 @@
     "weekDays": ["cz"]
   },
   {
-    "streatName": "Sielska (2) + Pętla MPK [ Borek Fałęcki ]",
+    "streatName": "Sielska (2) Pętla MPK - [ Borek Fałęcki ]",
     "prefix": "ul. ",
     "streatDesc": "Pętla tramwajowo-autobusowa [Borek Fałęcki] + targowisko",
     "tag": "pętla",
@@ -552,11 +552,331 @@
     "weekDays": ["2pt"]
   },
   {
-    "streatName": "",
+    "streatName": "Bałuckiego Michała (1)",
     "prefix": "ul. ",
     "streatDesc": "",
     "tag": "ulica",
-    "googleMapsLink": "",
-    "weekDays": ["2pt"]
+    "googleMapsLink": "https://maps.app.goo.gl/Sm4grJ4Pkso2DERE7",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Barska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od Rynku Dębnickiego do ul. Konopnickiej",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Barska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Wierzbowej do odcinka zjazdowego do ul. Konopnickiej",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Barska (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bułhaka na wschód za Centrum Kongresowym w kier. ul. Konopnickiej, dalej na południe do ul. Wierzbowa na dł. 0,23 km wraz z ściągaczem w kier. wschodnim do ul. Konopnickiej, dalej na południe równolegle do ul. Konopnickiej za pętlą autobusową MPK do przystanku dla wsiadających innych przewoźników na dł. 0,2 km",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Barska (4) Pętla MPK - [os. Podwawelskie]",
+    "prefix": "ul. ",
+    "streatDesc": "Pętla autobusowa + dworzec innych przewoźników",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Barska (5)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Ludwinowska do tunelu pod ul. Konopnickiej na dł. 130 m i dlaej do odcinka zjazdowego do ul. Konopnickiej na dł. 0,25 km",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Brożka Jana (2) Pętla MPK - [Łagiewniki]",
+    "prefix": "ul. ",
+    "streatDesc": "Pętla tramwajowo-autobusowa [Łagiewniki]",
+    "tag": "pętla",
+    "googleMapsLink": "https://maps.app.goo.gl/aicPjZ4tPvuSXrHQ8",
+    "weekDays": ["pn", "sr", "pt"]
+  },
+  {
+    "streatName": "Czerwone Maki (2) Pętla MPK - [Czerwone Maki]",
+    "prefix": "ul. ",
+    "streatDesc": "Pętla tramwajowo-autobusowa, Terminal Autobusowy + Parking P+R",
+    "tag": "pętla",
+    "googleMapsLink": "https://maps.app.goo.gl/3zHuyhJnumeYuB6P9",
+    "weekDays": ["pn", "sr", "pt"]
+  },
+  {
+    "streatName": "Daszyńskiego Ignacego (1)",
+    "prefix": "al. ",
+    "streatDesc": "",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/gwpgGCnrBk5m7cFy9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Dembowskiego Edwarda",
+    "prefix": "al.",
+    "streatDesc": "",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/xfiwcsj352jiZfycA",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Grzegórzecka (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od Ronda Grunwaldzkiego do Hali Targowej",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/HgDJYvRgfEjaCmHG6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Grzegórzecka (8)",
+    "prefix": "ul. ",
+    "streatDesc": "Hala Targowa",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/HgDJYvRgfEjaCmHG6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Herlinga-Grudzińskiego Gustawa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/LYLewtECDQ83VH3M8",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Klimeckiego Stanisława (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/LhHtrpyG5Ec34fiG8",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Józefińska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/XshcRBhfY8N6Hmbr9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Józefińska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "boczna od ul. Lwowska (ślepa)",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/XshcRBhfY8N6Hmbr9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kobierzyńska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kapelanka do ul. Zawiła",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/KndR6gbrDePGQxYp7",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kobierzyńska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Kapelanka do ul. Rydlówka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/KndR6gbrDePGQxYp7",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kotlarska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od Rondo Grunwaldzkie do most Kotlarski",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/8wMymTUDEfd6JThs9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kotlarska (2)",
+    "prefix": "ul. ",
+    "streatDesc": "most Kotlarski z łacznicami do ul. Zabłocie",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/8wMymTUDEfd6JThs9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kotlarska (3)",
+    "prefix": "ul. ",
+    "streatDesc": "węzeł Podgórski do ul. Poodgórska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/8wMymTUDEfd6JThs9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Lipowa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/ZyGMKp51tw5146qY9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Metalowców",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/mcXowr5qx6ssf9Sd6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Nadwiślańska",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/pbyRi6Hqf8Ep4Rpr9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Parkowa (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/PuSq3pxk58aUq1Tk8",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Podgórska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/nAvpHhDdnhqHVzJV6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Przy Moście",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/dYPVPKLKTbzo2HMP9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Romanowicza Tadeusza",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/oqKTxDTnwY6RPKUW6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Rostworowskiego Stanisława",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Grota-Roweckiego do ul. Kobierzyńska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/GTbp9m6fnFP9eYbj6",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Rydlówka",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Koobierzyńska doo ul. Wadowicka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/nS1ib6QPz5862UyP9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Rynek Dębnicki",
+    "prefix": "",
+    "streatDesc": "",
+    "tag": "rynek",
+    "googleMapsLink": "https://maps.app.goo.gl/6u9X4BmpVfyy1fN79",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Rzeźnicza (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/88FrjmTSho6Q7hdr8",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Siedleckiegoo Michała (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Miodowa do ul. Metalowców",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/qugs6ugqjEhCHZBV9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Siedleckiegoo Michała (2)",
+    "prefix": "ul. ",
+    "streatDesc": "boczna od ul.Siedleckiego przy cmentarzu do al. Daszyńskiegoo",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/qugs6ugqjEhCHZBV9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Solna",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/1s24o19HkShxAkMt7",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Staromostowa",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/VRLLEzmzBHGYT57z8",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Stawarza Antoniego, Porucznika",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/D9sPjJsdzN4aWkpg7",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Ślusarska",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/HeoQNcFkxdRtC15x9",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Łagiewnicka (2) [Trasa]",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Zakopiańska do ul. Kobierzyńska",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/3B2L3KRJB4NP4R1GA",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Zabłocie (2)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/9eQEbjr3dZcFuhL29",
+    "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Zielińskiego Bohdana, Generała",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/MuE9SVdKTNfGL29p9",
+    "weekDays": ["pn"]
   }
 ]
