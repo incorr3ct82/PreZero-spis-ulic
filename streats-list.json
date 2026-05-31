@@ -876,7 +876,63 @@
     "prefix": "ul. ",
     "streatDesc": "",
     "tag": "ulica",
-    "googleMapsLink": "https://maps.app.goo.gl/MuE9SVdKTNfGL29p9",
+    "googleMapsLink": "https://maps.app.goo.gl/Efs1wDk4nsYDrRd37",
     "weekDays": ["pn"]
+  },
+  {
+    "streatName": "Kopernika Mikołaja",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/RTantEfz8ZTAJdeK7",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Nullo Francesco, Pułkownika (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Mogilska do al. Pokoju",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/bG3goWw9hfvScWYw8",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Nullo Francesco, Pułkownika (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od al. Pokoju do ul. Grzegórzecka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/bG3goWw9hfvScWYw8",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Pokoju (1)",
+    "prefix": "al. ",
+    "streatDesc": "od rondo Dywizjonu 308 do rondo Grzegórzeckie",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/wpqArV614JA7HjLR7",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Pokoju (3) Pętla MPK - [Dąbie]",
+    "prefix": "al. ",
+    "streatDesc": "Pętla tranwajowa (nieczynna)",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/pxzsj9FyyBxEfnLy8",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Powstania Warszawskiego (1)",
+    "prefix": "al. ",
+    "streatDesc": "",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/CGfio938RZcFXR1h9",
+    "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Śniadeckich Jana i Jędrzeja",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/TynH1TkuxTYxwpCb9",
+    "weekDays": ["wt"]
   }
 ]
