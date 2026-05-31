@@ -30,6 +30,9 @@ generateStreats(filteredData);
 
 function generateStreats(arr) {
   mainContentEl.innerHTML = "";
+
+  arr.sort((a, b) => a.streatName.localeCompare(b.streatName, "pl")); // sortowanie alfabetyczne po nazwie ulicy
+
   let temp = "";
 
   arr.forEach((el) => {
@@ -53,6 +56,7 @@ function generateStreats(arr) {
     mainContentEl.innerHTML = temp;
   });
 }
+
 function filteringData(codeName) {
   return streats.filter(
     (streat) =>
@@ -63,7 +67,8 @@ function filteringData(codeName) {
 function searchingData(text) {
   const re = new RegExp(`${text}`, "i");
   return streats.filter(
-    (streat) => re.test(streat.streatName) || re.test(streat.streatDesc),
+    (streat) =>
+      re.test(streat.prefix + streat.streatName) || re.test(streat.streatDesc),
   );
 }
 function weekOfMonth() {
