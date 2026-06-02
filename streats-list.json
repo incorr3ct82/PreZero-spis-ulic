@@ -522,7 +522,7 @@
   {
     "streatName": "Czerwone Maki (1)",
     "prefix": "ul. ",
-    "streatDesc": "",
+    "streatDesc": "od ul. Bobrzyńskiego przy terminalu autobusowym w kier. północnym, dalej na wschód do ronda przy ul. Frassati-Gawrońskiej wraz z rondem",
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
     "weekDays": ["2pt"]
@@ -530,7 +530,7 @@
   {
     "streatName": "Czerwone Maki (4)",
     "prefix": "ul. ",
-    "streatDesc": "",
+    "streatDesc": "od ul. Lubostroń w kier. południowym do nr. 43",
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
     "weekDays": ["2pt"]
@@ -538,7 +538,7 @@
   {
     "streatName": "Czerwone Maki (6)",
     "prefix": "ul. ",
-    "streatDesc": "",
+    "streatDesc": "od ul. Babińskiego na północ na dł. 0.62 km (deptak)",
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
     "weekDays": ["2pt"]
@@ -546,7 +546,7 @@
   {
     "streatName": "Czerwone Maki (7)",
     "prefix": "ul. ",
-    "streatDesc": "",
+    "streatDesc": "boczna - sięgacz od nr. 43 na południe wzdłuż cmentarza",
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
     "weekDays": ["2pt"]
@@ -589,7 +589,7 @@
     "streatDesc": "Pętla autobusowa + dworzec innych przewoźników",
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/g74M9qvA6SDjHSNZ6",
-    "weekDays": ["pn"]
+    "weekDays": ["pn", "sr", "pt"]
   },
   {
     "streatName": "Barska (5)",
@@ -876,7 +876,7 @@
     "prefix": "ul. ",
     "streatDesc": "",
     "tag": "ulica",
-    "googleMapsLink": "https://maps.app.goo.gl/Efs1wDk4nsYDrRd37",
+    "googleMapsLink": "https://maps.app.goo.gl/Bx4ANnptGpNHpnAL6",
     "weekDays": ["pn"]
   },
   {
@@ -934,5 +934,149 @@
     "tag": "ulica",
     "googleMapsLink": "https://maps.app.goo.gl/TynH1TkuxTYxwpCb9",
     "weekDays": ["wt"]
+  },
+  {
+    "streatName": "Zawiszy (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Forteczna do ul. Narwik",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/xAfsgbaj15swCN5K6",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Zawiszy (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Narwik do ul. Wichrowa",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/xAfsgbaj15swCN5K6",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Dywizjonu 308",
+    "prefix": "Rondo",
+    "streatDesc": "al. Pokoju - ul. Nowohucka",
+    "tag": "rondo",
+    "googleMapsLink": "https://maps.app.goo.gl/159yB6doAyDYwJCc9",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Jana Pawła II (2)",
+    "prefix": "al. ",
+    "streatDesc": "od ul. Meisnera do ul. Nowohucka",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/wPzZzgqAYcEY2Y436",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Jana Pawła II (5) Pętla MPK [TAURON]",
+    "prefix": "al. ",
+    "streatDesc": "Pętla tranwajowa [TAURON Arena Kraków Wieczysta] + dojście do peronu od strony ul. Lema 5a",
+    "tag": "aleja",
+    "googleMapsLink": "https://maps.app.goo.gl/kwTcJnC45KPeZ7t87",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Lema Stanisława (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/mJqqNPMjrtfYY39eA",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Lema Stanisława (2)",
+    "prefix": "ul. ",
+    "streatDesc": "boczna - ściagacz od wjazdu na TAURON Arenę wzdłuż nr. 17,19 do nr. 5, 5a",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/mJqqNPMjrtfYY39eA",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Mogilska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/tYwvieaAkxGhzuNC9",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Nowohucka (1)",
+    "prefix": "ul. ",
+    "streatDesc": "od rondo Dywizjonu 308 do ul. Powstańców Wielkopolskich",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/wFHSFhJhCvNBetEt8",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Nowohucka (2)",
+    "prefix": "ul. ",
+    "streatDesc": "od rondo Dywizjonu 308 do al. Jana Pawła II",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/wFHSFhJhCvNBetEt8",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Dębska",
+    "prefix": "ul. ",
+    "streatDesc": "2 wjazdy od ul. Lema : \n 1.) v/v TAURON Arena \n 2.) w osiedle bliżej ul. Mogilska \n Dalej wzdłuż Hotelu do ul. Kosynierów/Zwycięstwa",
+    "tag": "ulica",
+    "googleMapsLink": "",
+    "weekDays": ["sr"]
+  },
+  {
+    "streatName": "Czerwone Maki (3)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bobrzyńskiego w kierunku południowym do ul.Lubostroń na dł. 0.24 km",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/T1mvQ9fFGHV9th5w8",
+    "weekDays": ["pt"]
+  },
+  {
+    "streatName": "Drukarska",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Bobrzyńskiego do ul. Zalesie",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/mdom3Cn7h7hdKAERA",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Lubostroń",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/mJ7iECGJ8DfBYFqt7",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Miłkowskiego Zygmunta",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/KiBQ7i1WfsV8jJry6",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Norymberska (1)",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/PK8Fptvo82XqeQ6N8",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "Obozowa (5)",
+    "prefix": "ul. ",
+    "streatDesc": "od ul. Torfowa do ul. Żywiecka",
+    "tag": "ulica",
+    "googleMapsLink": "https://maps.app.goo.gl/fAFxvFSyE42V69EEA",
+    "weekDays": ["2pt"]
+  },
+  {
+    "streatName": "",
+    "prefix": "ul. ",
+    "streatDesc": "",
+    "tag": "ulica",
+    "googleMapsLink": "",
+    "weekDays": ["2pt"]
   }
 ]
